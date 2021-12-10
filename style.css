@@ -19,17 +19,14 @@ strong {
 }
 .img {
     background-image: url("./images/pattern.jpeg");
-    background-size: auto;
+    
 }
 .brushes {
     background-color: mediumspringgreen;
-    background-size: auto;
 }
 .frames {
     background-color: lightcoral;
-    background-size: auto;
 }
 .paint {
     background-color: skyblue;
-    background-size: auto;
 }
